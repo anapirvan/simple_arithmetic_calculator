@@ -14,4 +14,4 @@ else:
     print("Invalid operator!")
     exit()
 
-print(result)
+print(round(result))
